@@ -1,4 +1,4 @@
-![Brian Mendez Profile]()
+![Brian Mendez Profile](IMG_0020.JPG)
 
 <h2>Welcome to my Github! I'm Brian</h2>
 
